@@ -9,11 +9,7 @@
 </p>
 
 <h1 align="center"><strong>HELLO, I AM SWASTIK</strong></h1>
-<h3 align="center"><i>Machine Learning, Infra & MLOps · Real-time AI Systems</i></h3>
-
-<br/>
-
-<table align="center">
+<h3 align="center"><i>Machine Learning & Generative AI Dev | Data Pipelines & Backend APIs | Infrastructure & MLOps <table align="center">
   <tr>
     <td>🧠</td>
     <td><b>Machine Learning & Generative AI Enthusiast</b></td>
