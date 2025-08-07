@@ -1,65 +1,65 @@
-<h1 align="center">👋 Yo! I'm Swastik Nandy</h1>
+<!-- ✨ Glitchy Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=F7FF52&center=true&vCenter=true&width=700&lines=⚙️+Crafting+LLM+Infra+That+Thinks%2C+Scales+%26+Speaks.;🧠+Data+Alchemy+%7C+Rust+Powered+Backends+%7C+RAG+Pipelines+in+Warp+Drive;MLOps+Warrior+%7C+LoRA%2C+QLoRA%2C+LangChain%2C+Transformers+%F0%9F%94%A5" />
+</p>
+
+<!-- 🎮 Hero Banner Gifs -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalXbT6ZcA/giphy.gif" width="120" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="160" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="140" />
+</p>
+
+---
+
+<h1 align="center">🚀 Swastik Nandy — ML Infra Wizardry 🧙‍♂️</h1>
 
 <h3 align="center">
-  🧠 Machine Learning & Generative AI Engineer &nbsp;|&nbsp; 🛠 Rust + Python Infra Hacker &nbsp;|&nbsp; ⚙️ Real-Time Systems + MLOps Wizard
+  🧬 Generative AI Developer &nbsp;|&nbsp; ⚡ Rust + Python Backend Architect &nbsp;|&nbsp; 🧱 Real-Time Data Pipelines & MLOps Automation
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Transforming+ML+infra+into+production+powerhouses;Building+RAG%2C+LLM%2C+LoRA+systems+that+scale;Rust+%7C+FastAPI+%7C+Redis+%7C+Postgres+%7C+Docker+%7C+GCP" />
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="140" />
-  &nbsp;
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
-  &nbsp;
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="140" />
-</p>
+### 🔥 About Me — The Real-Time Alchemist
+
+- 🧠 I architect **modular, GPU-friendly**, low-latency ML systems with explainability baked in.
+- 🔧 Backend magic using **Rust**, **Tokio**, **FastAPI**, **SpringBoot** — because milliseconds matter.
+- 🧪 I fine-tune LLMs with **LoRA**, **QLoRA**, and build **RAG** pipelines from scratch.
+- 🧰 Powered by Redis, PostgreSQL, Airflow, Docker, MLflow & clouds that scale.
 
 ---
 
-### 🧠 Who Am I?
+### ⚔️ Skill Arsenal
 
-> A machine that builds thinking machines.
+#### 🚀 Core Languages & Frameworks
 
-- 🔥 Architecting **real-time ML infra** with **10s refresh**, **in-memory stores**, and **LLM fusion**.
-- 🦾 Backend engineer wielding **Rust**, **Tokio**, **FastAPI**, and **SpringBoot**.
-- 🤖 Trained models using **LoRA**, **QLoRA**, **Transformer stacks**, and **LangChain** for RAG.
-- ⚙️ Obsessed with **low-latency**, **modular**, and **bulletproof** pipelines.
-
----
-
-### ⚙️ Tech Stack Breakdown
-
-#### 🛠 Core Tech
-
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io)
-[![Tokio](https://img.shields.io/badge/Tokio-Rust-blueviolet?style=for-the-badge&logo=rust)](https://tokio.rs)
+[![FastAPI](https://img.shields.io/badge/FastAPI-00BA88?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)](https://spring.io)
 
-#### 🧪 AI & Modeling
+#### 🧠 GenAI Stack
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![LoRA](https://img.shields.io/badge/LoRA-FF66CC?style=flat-square&logo=openai&logoColor=white)](https://arxiv.org/abs/2106.09685)
-[![QLoRA](https://img.shields.io/badge/QLoRA-9146FF?style=flat-square&logo=openai&logoColor=white)](https://arxiv.org/abs/2305.14314)
-[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-green?style=flat-square)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+[![LoRA](https://img.shields.io/badge/LoRA-FF66CC?style=for-the-badge&logo=openai)](https://arxiv.org/abs/2106.09685)
+[![QLoRA](https://img.shields.io/badge/QLoRA-9146FF?style=for-the-badge&logo=openai)](https://arxiv.org/abs/2305.14314)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain)](https://www.langchain.com/)
+[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-green?style=for-the-badge)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 
-#### 🧱 Infra & Deployment
+#### 🏗 Infra & MLOps
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)](https://airflow.apache.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)](https://redis.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)](https://postgresql.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://docker.com)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow)](https://mlflow.org)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)](https://airflow.apache.org/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)](https://cloud.google.com)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Pulse
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swastiknandy&show_icons=true&theme=tokyonight" height="170px" />
@@ -69,34 +69,35 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Let’s Connect and Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swastik-nandy/" target="_blank">
+  <a href="https://www.linkedin.com/in/swastik-nandy/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://huggingface.co/your-username" target="_blank">
+  <a href="https://huggingface.co/your-username">
     <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://yourdomain.dev" target="_blank">
+  <a href="https://yourdomain.dev">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🐱 Dev Life Vibes
+### 😺 Bonus: Dev Mood Board
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
   &nbsp;
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
   &nbsp;
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 ---
 
-> _“Stay curious. Think modular. Build things that think.”_
+> ✨ _"If it’s not modular, it’s not memorable."_  
+> — Swastik
