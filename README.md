@@ -20,7 +20,7 @@
 
 ---
 
-### 🧠 Who Am I?
+### 🧠 My Domains
 
 - 🤖 I build **modular**, **real-time** ML systems with *brains and backbone*.
 - 🔧 Backend in **Rust**, **FastAPI**, **SpringBoot** — ultra-low latency with Redis + PostgreSQL.
