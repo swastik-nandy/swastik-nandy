@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Terminal Dev Animation" />
 </p>
 
-<h1 align="center"><strong>SWASTIK NANDY</strong></h1>
+<h1 align="center"><strong>HELLO, I AM SWASTIK</strong></h1>
 <h3 align="center"><i>Machine Learning, Infra & MLOps · Real-time AI Systems</i></h3>
 
 <br/>
