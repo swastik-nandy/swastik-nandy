@@ -88,26 +88,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastiknandy&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swasti-knandy&show_icons=true&theme=tokyonight" height="170px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastiknandy&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-nandy&layout=compact&theme=tokyonight" height="170px" />
 </p>
 
 ---
-
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swastik-nandy/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/swastik-nandy">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="swastiknandy2003@@gmail.com">
+    <img alt="GMail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/swastiknandy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/swastik-nandy">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
