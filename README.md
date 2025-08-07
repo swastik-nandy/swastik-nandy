@@ -1,129 +1,149 @@
-<!-- Snoozing Dev GIF -->
+<!-- Dev Snoozing GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250" alt="Snoozing Dev">
 </p>
 
-<h1 align="center">Hi, I'm Swastik Nandy ⚡</h1>
-<h3 align="center">
-  🚀 Machine Learning & Generative AI · Backend APIs & Real-time Systems · Cloud Infra & MLOps
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7B400&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚙️+Swastik+Nandy+-+Machine+Learning+%26+AI+Engineer;Backend+%7C+Real-time+Data+Pipelines+%7C+MLOps+%7C+Rust+Lover" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B3C&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+with+a+Rusty+Edge+%F0%9F%A7%A0;Building+real-time+trading+engines+from+scratch;LLM+nerd+%E2%9A%A1%EF%B8%8F+Infra+geek+%E2%9C%8C%EF%B8%8F+Backend+fiend" />
-</p>
-
----
-
-## 📜 Table of Contents
-- [📌 Bio](#bio)
-- [🛠️ Tech Stack](#tech-stack)
-- [📊 GitHub Stats](#github-stats)
-- [🚧 Projects & Interests](#projects--interests)
-- [🌐 Links & Contact](#links--contact)
-
----
-
-## 📌 Bio
-
-- 🎓 Final Year B.Tech Student | Age 22  
-- 🧠 Building high-frequency trading systems powered by ML + Rust  
-- 💭 Specializing in: **Signal fusion**, **LLMs**, **Realtime ML inference**, and **infra automation**  
-- 🪄 Obsessed with fine-tuning models, transformer internals, and understanding gradient dynamics  
-- 🤖 Designing an **AI-powered claim verification system** using graphs + NLP + web search  
-- ⚙️ Strong belief: **Precision > Hype**, **Structure > Fancy**, **Rust > Snake sometimes 🦀**
-
----
-
-## 🛠️ Tech Stack
-
-### 🧠 Machine Learning & AI
-
-| Frameworks | NLP Tools | LLM/RAG |
-|------------|-----------|----------|
-| PyTorch 🟥 | spaCy 💬 | HuggingFace 🤗 |
-| scikit-learn 📊 | NLTK 📚 | LangChain 🔗 |
-| XGBoost 📈 | FinBERT 💹 | LoRA / QLoRA 🧪 |
-| OpenCV 👁️ | Transformers 🔁 | RAG pipelines 📂 |
-
----
-
-### ⚙️ Backend & Infra
-
-| Language | Backend | Infra & Tools |
-|----------|---------|----------------|
-| Python 🐍 | FastAPI ⚡ | Docker 🐳 |
-| Rust 🦀 | Spring Boot 🌱 | Redis 🔴 |
-| Java ☕ | REST APIs 🌐 | PostgreSQL 🐘 |
-| Bash 🖥️ | WebSocket Streaming 📡 | GitHub Actions 🚀 |
-| Go (learning) 🪙 | DAG Engine (custom) 🧩 | MLflow 📌, Airflow 🌬️ |
-
----
-
-### ☁️ Cloud & Platforms
-
-| Providers | DevOps |
-|-----------|--------|
-| AWS ☁️ | CI/CD Pipelines 🧰 |
-| GCP ☁️ | Northflank 🚢 |
-| Colab Pro 🚀 | RunPod ⚡ |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik-nandy&theme=radical&show_icons=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=swastik-nandy&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-nandy&layout=compact&theme=radical" height="170"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="100" />
 </p>
 
 ---
 
-## 🚧 Projects & Interests
+## 🧠 Bio
 
-🧠 **Fake Professional Claim Detector**  
-A multi-signal LLM pipeline to detect exaggerated or suspicious personal claims online — built using NLP + tone detection + graph-based reasoning + web verification.
-
-📈 **Realtime Crypto Prediction System**  
-Built from scratch using 10s interval trade data → PostgreSQL + Redis + Rust WebSocket + Python ML + Grafana live dashboards.
-
-🦀 **Rust DAG Engine**  
-Custom built DAG framework in Rust with DecisionNodes, strategy plugins, Python ↔ Rust FFI bridge, and real-time streaming support.
-
-⚙️ **Infra Nerd Things**  
-- Live OHLCV aggregation from trades  
-- Daily PostgreSQL vacuuming at 05:02 UTC  
-- Trigger-based Redis → DB bridge  
-- GPU-backed daily model retraining  
+- 👨‍💻 Final-year B.Tech student obsessed with building real-time intelligent systems
+- ⚙️ Architecting custom DAG-based **trading engines** in **Rust + Python**
+- 🤖 Creating **fake professional claim detectors** using NLP + signal fusion
+- 🧪 Working on LLM graph reasoning, fine-tuning, and model explainability
+- ☁️ Containerized infra, GPU pipelines, Redis streaming, and PostgreSQL backends
+- 🎯 Vision: Reach **0.1% trading signal precision improvement** with AI + infra fusion
 
 ---
 
-## 🌐 Links & Contact
+## 🚀 Tech Stack
+
+<div align="center">
+
+<!-- Languages -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+<br/>
+
+<!-- AI/ML -->
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</a>
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/XGBoost-00B2EE?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-FFBB00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+</a>
+
+<br/>
+
+<!-- Backend + Data -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+
+<br/>
+
+<!-- MLOps / Infra -->
+<a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</a>
+<a href="https://mlflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+<a href="https://www.runpod.io/" target="_blank">
+  <img src="https://img.shields.io/badge/RunPod-GPU%20Power-FF4081?style=for-the-badge&logo=cloudsmith&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swastik-nandy/">
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik-nandy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=swastik-nandy&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🧩 Current Projects
+
+### 🚀 Real-time Crypto Prediction Engine
+- Built with Redis + PostgreSQL + Rust WebSocket streamer
+- Ingests high-frequency Binance data, aggregates OHLCV live
+- Uses XGBoost + FinBERT + Fusion for accurate trade signals
+
+### 🧠 Fake Professional Claim Detector
+- Uses NLP, tone analysis, keyword patterns, web search & graphs
+- Detects exaggeration, false expertise, and suspicious bios
+
+### 🧪 Model Automation + MLOps
+- Daily retraining using GPU (RunPod / Colab)
+- Logs, checkpoints, GitHub model artifacts via Actions
+- Coming soon: Full MLflow pipeline
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swastik-nandy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/swastik-nandy">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/swastik-nandy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com/">
+  <a href="https://your-portfolio-link.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧙🏻‍♂️ Bonus Vibes
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l2SpYdFes8K0sKrWM/giphy.gif" width="200" />
 </p>
 
-> "I don't chase models. I build systems that make models chase truth."
-
----
-
+<p align="center">
+  <i>“Models are temporary. Pipelines are forever.”</i>
+</p>
