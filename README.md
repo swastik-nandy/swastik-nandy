@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" alt="Dev at work" />
+  <img src="https://tenor.com/view/developer-gif-2461104302247665708" width="280" alt="Dev at work" />
 </p>
 
 <h1 align="center"><strong><i>HELLO, I AM SWASTIK</i></strong></h1>
