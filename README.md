@@ -1,85 +1,63 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#00F700">Swastik Nandy</span></h1>
+<h1 align="center">
+  👋 Hey, I'm <span style="color:#00F700;">Swastik Nandy</span>
+</h1>
 
-<h3 align="center" style="font-weight:bold; color:#FFD700;">
-  🧠 <span style="color:#FF69B4">Machine Learning & Generative AI Developer</span> <br>
-  🔁 <span style="color:#00FFFF">Data Pipeline & Backend APIs</span> <br>
-  🏗️ <span style="color:#ADFF2F">Infrastructure & MLOps</span>
+<h3 align="center">
+  🧠 Machine Learning & Generative AI Developer &nbsp;|&nbsp; 🔁 Data Pipeline & Backend APIs &nbsp;|&nbsp; 🏗️ Infrastructure & MLOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Real-time+ML+%7C+Rust+Infra+Builder;LoRA%2C+QLoRA%2C+Transformers%2C+Langchain;Coding+until+the+GPU+melts...+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=Building+ML+Infra+that+Thinks...;LoRA+%7C+QLoRA+%7C+LangChain+%7C+Rust+%2B+FastAPI;GPU+melting+pipelines+in+progress+%F0%9F%94%A5" alt="Typing Animation">
 </p>
+
+---
+
+### 💡 Keywords
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41K3o5TzvmENvBZm/giphy.gif" width="250" alt="Cat Coding Friday 13th" />
+  <strong>
+    <span style="color:#FF69B4;">LoRA</span> &nbsp;|&nbsp;
+    <span style="color:#BA55D3;">QLoRA</span> &nbsp;|&nbsp;
+    <span style="color:#00CED1;">Transformer</span> &nbsp;|&nbsp;
+    <span style="color:#FFA500;">LangChain</span> &nbsp;|&nbsp;
+    <span style="color:#ADFF2F;">RAG</span>
+  </strong>
 </p>
 
 ---
 
-### 🧠 Who Am I?
-
-- 🤖 I build **modular**, **real-time** machine learning systems with *brains and backbone*.
-- 🔧 Backend in **Rust**, **FastAPI**, **SpringBoot**, connected to ultra-low latency Redis + PostgreSQL.
-- 🧪 GenAI guy: **LoRA**, **QLoRA**, **transformers**, **RAG**, **LangChain**, **spaCy**, **OpenCV** — I train 'em and deploy 'em.
-- 🧱 Infrastructure nerd: From **data ingestion** to **ML orchestration** to **alerting**, I build end-to-end.
+### 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" alt="Cat typing laptop" />
+  <a href="https://www.linkedin.com/in/swastik-nandy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://yourdomain.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tech Arsenal
-
-#### 🔣 Languages & Frameworks  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Tokio](https://img.shields.io/badge/Tokio-Rust-blueviolet?style=flat-square&logo=rust)](https://tokio.rs/)
-
-#### 🧠 ML & Generative AI  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![LoRA](https://img.shields.io/badge/LoRA-FF66CC?style=flat-square&logo=openai&logoColor=white)](https://arxiv.org/abs/2106.09685)
-[![QLoRA](https://img.shields.io/badge/QLoRA-9146FF?style=flat-square&logo=openai&logoColor=white)](https://arxiv.org/abs/2305.14314)
-[![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)](https://xgboost.readthedocs.io/)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)](https://spacy.io/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-green?style=flat-square)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
-
-#### ⚙️ Infra & MLOps  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/)
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-
----
-
-### 📈 GitHub Stats
+### 😸 Dev Life in GIFs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastiknandy&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastiknandy&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI2ZnFna3VhbzRkczFocmR4NHRzdzNzd3pmbTRsbHRjczlpNHFzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Cat Typing" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="250" alt="Keyboard Smash Cat" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxlMGZ3Z3c5dTVmNnpuZTAybnU0Z2l5MG1qOGhuamFlMG9jdmR4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RpyJZrxzjV7rjDKcyC/giphy.gif" width="250" alt="Cat Coding Rage" />
 </p>
-
----
-
-### 🔗 Links
-
-- 🌐 [Portfolio](https://yourdomain.dev)
-- 🧬 [Hugging Face](https://huggingface.co/your-username)
-- 💼 [LinkedIn](https://www.linkedin.com/in/swastik-nandy/)
 
 ---
 
 > _"Stay curious. Think modular. Build things that think."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Late night dev" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cat hammering keyboard" />
 </p>
