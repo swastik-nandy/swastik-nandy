@@ -1,10 +1,6 @@
 <!-- 🧠 HERO SECTION START -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Swastik+Nandy;🧠+ML+%2B+GenAI+Developer;🚀+Rust+Infra+%7C+FastAPI+Pipelines;⚙️+MLOps+%7C+Real-time+AI+Systems;⌨️+Coding+till+the+GPU+melts..." alt="Typing SVG" />
-</p>
-
-<p align="center">
   <!-- Tenor “Developer” GIF that loads reliably -->
   <img src="https://tenor.com/view/developer-gif-2461104302247665708.gif" width="300" alt="Developer coding GIF" />
 </p>
