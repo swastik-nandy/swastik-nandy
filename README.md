@@ -10,22 +10,7 @@
 
 <h1 align="center"><strong>HELLO, I AM SWASTIK</strong></h1>
 <h3 align="center"><i>Machine Learning & Generative AI Dev | Data Pipelines & Backend APIs | Infrastructure & MLOps <table align="center">
-  <tr>
-    <td>🧠</td>
-    <td><b>Machine Learning & Generative AI Enthusiast</b></td>
-  </tr>
-  <tr>
-    <td>🛠️</td>
-    <td><b>Real-time Pipelines · Rust Infra · Deep NLP</b></td>
-  </tr>
-  <tr>
-    <td>🏗️</td>
-    <td><b>Building clean infra, from ingestion to inference</b></td>
-  </tr>
-</table>
-
-<br/>
-
+  
 ---
 
 ### 🧠 Who Am I?
