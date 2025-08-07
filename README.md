@@ -66,7 +66,7 @@
 &nbsp;
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 &nbsp;
-[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-Generation-green?style=flat-square)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-green?style=flat-square)](https://www.pinecone.io/learn/retrieval-augmented-generation/)
 
 #### ⚙️ Infra & MLOps  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
