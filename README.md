@@ -1,32 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Swastik+Nandy;Machine+Learning+%26+Generative+AI+Dev;Rust+Infra+%7C+FastAPI+Pipelines+%7C+MLOps;Building+things+that+think...+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%92%BB" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Swastik+Nandy;🧠+ML+%2B+Generative+AI+Dev;🔧+Rust+Infra+%7C+FastAPI+Pipelines;⚙️+MLOps+%7C+Data+Systems;⌨️+Coding+till+the+GPU+melts..." alt="Typing SVG" />
+
+<br>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Terminal Dev Animation" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Working dev gif" />
+<h1><i>Swastik Nandy</i></h1>
 
-<h1 style="font-weight:bold; margin-top: 30px;">Swastik Nandy</h1>
+<i>
+🧠 Machine Learning & Generative AI Enthusiast <br>
+🔁 Real-time Pipelines • Rust Infra • Deep NLP <br>
+🏗️ Building clean infra, from ingestion to inference
+</i>
 
-<h3>
-  🧠 <strong>Machine Learning & GenAI Developer</strong> <br>
-  🔁 <strong>Real-time Data Pipelines | Rust + Python</strong> <br>
-  🏗️ <strong>Infrastructure, Orchestration & MLOps</strong>
-</h3>
+<br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swastik-nandy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/swastik-nandy/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/swastiknandy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 </p>
 
 </div>
+
 
 
 ---
