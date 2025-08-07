@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Terminal Dev Animation" />
 </p>
 
-<h1 align="center"><strong>Swastik Nandy</strong></h1>
+<h1 align="center"><strong>SWASTIK NANDY</strong></h1>
 <h3 align="center"><i>Machine Learning, Infra & MLOps · Real-time AI Systems</i></h3>
 
 <br/>
@@ -29,23 +29,6 @@
 </table>
 
 <br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swastik-nandy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/swastiknandy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<!-- 🧠 HERO SECTION END -->
-
 
 ---
 
