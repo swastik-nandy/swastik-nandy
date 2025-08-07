@@ -113,6 +113,3 @@
 
 > "Logic solves problems. Heuristics survive them."
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="AI developer at work" />
-</p>
