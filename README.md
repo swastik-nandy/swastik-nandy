@@ -12,9 +12,9 @@
 <h1 align="center"><strong><i>HELLO, I AM SWASTIK</i></strong></h1>
 
 <h3 align="center">
-  🧠 Machine Learning & Generative AI Developer <br>
-  🔁 Data Pipelines & Backend APIs <br>
-  🏗️ Infrastructure & MLOps 
+   Machine Learning & Generative AI Developer <br>
+   Data Pipelines & Backend APIs <br>
+   Infrastructure & MLOps 
 </h3>
 
 <!-- 🧠 HERO SECTION END -->
