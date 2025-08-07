@@ -12,31 +12,6 @@
 
 <br><br>
 
-<h1><i>Swastik Nandy</i></h1>
-
-<i>
-🧠 Machine Learning & Generative AI Enthusiast <br>
-🔁 Real-time Pipelines • Rust Infra • Deep NLP <br>
-🏗️ Building clean infra, from ingestion to inference
-</i>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swastik-nandy/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/swastiknandy">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-</p>
-
-</div>
-
-
 
 ---
 
