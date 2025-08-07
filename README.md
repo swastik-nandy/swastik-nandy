@@ -9,13 +9,11 @@
   <img src="https://tenor.com/view/developer-gif-2461104302247665708.gif" width="300" alt="Developer coding GIF" />
 </p>
 
-<h1 align="center"><strong><i>HELLO, I AM SWASTIK</i></strong></h1>
+<h1 align="center"><strong>HELLO, I AM SWASTIK</i></strong></h1>
 
-<h3 align="center">
-   Machine Learning & Generative AI Developer <br>
-   Data Pipelines & Backend APIs <br>
-   Infrastructure & MLOps 
-</h3>
+<h3 align="center"><i>
+   Machine Learning & Generative AI Developer | Data Pipelines & Backend APIs | Infrastructure & MLOps 
+</i></h3>
 
 <!-- 🧠 HERO SECTION END -->
 
