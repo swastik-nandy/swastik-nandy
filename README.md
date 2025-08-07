@@ -1,44 +1,129 @@
-<!-- Typing cat meme & animated Dev intro -->
+<!-- Snoozing Dev GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250"/>
 </p>
 
-<h1 align="center">
-  👋 Hey there, I'm <span style="color:#00bfff;">Swastik Nandy</span>  
-</h1>
-
+<h1 align="center">Hi, I'm Swastik Nandy ⚡</h1>
 <h3 align="center">
-  🚀 Machine Learning & Generative AI Developer · ⚙️ Backend APIs & Data Pipelines · ☁️ Infrastructure + MLOps
+  🚀 Machine Learning & Generative AI · Backend APIs & Real-time Systems · Cloud Infra & MLOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A52B&center=true&vCenter=true&width=435&lines=Making+models+think+before+they+predict;Building+real-time+trading+systems;Automating+infra+like+magic;LLMs,+Graphs,+Rust+⚙️+Python+🐍" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B3C&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+with+a+Rusty+Edge+%F0%9F%A7%A0;Building+real-time+trading+engines+from+scratch;LLM+nerd+%E2%9A%A1%EF%B8%8F+Infra+geek+%E2%9C%8C%EF%B8%8F+Backend+fiend" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🧩 **Final-year B.Tech student**, obsessed with **high-frequency trading systems** & **LLMs**
-- ⚙️ I build **real-time data pipelines**, **Rust-based backends**, and **AI signal fusion systems**
-- 🛠️ Currently building a **DAG-based trading engine** with **Rust core + Python AI logic**
-- 🤖 Passionate about **truth-detection AI**, **LLM reasoning**, and **infra-mastery**
+## 📜 Table of Contents
+- [📌 Bio](#bio)
+- [🛠️ Tech Stack](#tech-stack)
+- [📊 GitHub Stats](#github-stats)
+- [🚧 Projects & Interests](#projects--interests)
+- [🌐 Links & Contact](#links--contact)
 
 ---
 
-### 🧰 Tech Stack
+## 📌 Bio
 
-<!-- Language + Infra -->
+- 🎓 Final Year B.Tech Student | Age 22  
+- 🧠 Building high-frequency trading systems powered by ML + Rust  
+- 💭 Specializing in: **Signal fusion**, **LLMs**, **Realtime ML inference**, and **infra automation**  
+- 🪄 Obsessed with fine-tuning models, transformer internals, and understanding gradient dynamics  
+- 🤖 Designing an **AI-powered claim verification system** using graphs + NLP + web search  
+- ⚙️ Strong belief: **Precision > Hype**, **Structure > Fancy**, **Rust > Snake sometimes 🦀**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Machine Learning & AI
+
+| Frameworks | NLP Tools | LLM/RAG |
+|------------|-----------|----------|
+| PyTorch 🟥 | spaCy 💬 | HuggingFace 🤗 |
+| scikit-learn 📊 | NLTK 📚 | LangChain 🔗 |
+| XGBoost 📈 | FinBERT 💹 | LoRA / QLoRA 🧪 |
+| OpenCV 👁️ | Transformers 🔁 | RAG pipelines 📂 |
+
+---
+
+### ⚙️ Backend & Infra
+
+| Language | Backend | Infra & Tools |
+|----------|---------|----------------|
+| Python 🐍 | FastAPI ⚡ | Docker 🐳 |
+| Rust 🦀 | Spring Boot 🌱 | Redis 🔴 |
+| Java ☕ | REST APIs 🌐 | PostgreSQL 🐘 |
+| Bash 🖥️ | WebSocket Streaming 📡 | GitHub Actions 🚀 |
+| Go (learning) 🪙 | DAG Engine (custom) 🧩 | MLflow 📌, Airflow 🌬️ |
+
+---
+
+### ☁️ Cloud & Platforms
+
+| Providers | DevOps |
+|-----------|--------|
+| AWS ☁️ | CI/CD Pipelines 🧰 |
+| GCP ☁️ | Northflank 🚢 |
+| Colab Pro 🚀 | RunPod ⚡ |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik-nandy&theme=radical&show_icons=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=swastik-nandy&theme=radical" height="170"/>
 </p>
 
-<!-- ML/AI Tools -->
 <p align="center">
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-  <a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGBoost-00B2EE?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badg
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-nandy&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🚧 Projects & Interests
+
+🧠 **Fake Professional Claim Detector**  
+A multi-signal LLM pipeline to detect exaggerated or suspicious personal claims online — built using NLP + tone detection + graph-based reasoning + web verification.
+
+📈 **Realtime Crypto Prediction System**  
+Built from scratch using 10s interval trade data → PostgreSQL + Redis + Rust WebSocket + Python ML + Grafana live dashboards.
+
+🦀 **Rust DAG Engine**  
+Custom built DAG framework in Rust with DecisionNodes, strategy plugins, Python ↔ Rust FFI bridge, and real-time streaming support.
+
+⚙️ **Infra Nerd Things**  
+- Live OHLCV aggregation from trades  
+- Daily PostgreSQL vacuuming at 05:02 UTC  
+- Trigger-based Redis → DB bridge  
+- GPU-backed daily model retraining  
+
+---
+
+## 🌐 Links & Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swastik-nandy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/swastik-nandy">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧙🏻‍♂️ Bonus Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+</p>
+
+> "I don't chase models. I build systems that make models chase truth."
+
+---
+
