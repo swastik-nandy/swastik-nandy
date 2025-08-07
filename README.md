@@ -1,38 +1,51 @@
-<div align="center">
+<!-- 🧠 HERO SECTION START -->
 
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Swastik+Nandy;🧠+ML+%2B+Generative+AI+Dev;🔧+Rust+Infra+%7C+FastAPI+Pipelines;⚙️+MLOps+%7C+Data+Systems;⌨️+Coding+till+the+GPU+melts..." alt="Typing SVG" />
-  
-  <br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Swastik+Nandy;🧠+ML+%2B+GenAI+Developer;🚀+Rust+Infra+%7C+FastAPI+Pipelines;⚙️+MLOps+%7C+Real-time+AI+Systems;⌨️+Coding+till+the+GPU+melts..." alt="Typing SVG" />
+</p>
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Terminal Dev Animation" />
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Terminal Dev Animation" />
+</p>
 
-  <br><br>
+<h1 align="center"><strong>Swastik Nandy</strong></h1>
+<h3 align="center"><i>Machine Learning, Infra & MLOps · Real-time AI Systems</i></h3>
 
-  <h1><i>Swastik Nandy</i></h1>
+<br/>
 
-  <i>
-    🧠 Machine Learning & Generative AI Enthusiast <br>
-    🔁 Real-time Pipelines • Rust Infra • Deep NLP <br>
-    🏗️ Building clean infra, from ingestion to inference
-  </i>
+<table align="center">
+  <tr>
+    <td>🧠</td>
+    <td><b>Machine Learning & Generative AI Enthusiast</b></td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td><b>Real-time Pipelines · Rust Infra · Deep NLP</b></td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td><b>Building clean infra, from ingestion to inference</b></td>
+  </tr>
+</table>
 
-  <br><br>
+<br/>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/swastik-nandy/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="mailto:your@email.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://github.com/swastiknandy">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/swastik-nandy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/swastiknandy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-</div>
+<!-- 🧠 HERO SECTION END -->
+
 
 ---
 
