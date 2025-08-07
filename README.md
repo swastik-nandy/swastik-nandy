@@ -1,18 +1,33 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#00F700">Swastik Nandy</span></h1>
+<div align="center">
 
-<h3 align="center" style="font-weight:bold; color:#FFD700;">
-  🧠 <span style="color:#FF69B4">Machine Learning & Generative AI Developer</span> <br>
-  🔁 <span style="color:#00FFFF">Data Pipeline & Backend APIs</span> <br>
-  🏗️ <span style="color:#ADFF2F">Infrastructure & MLOps</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Swastik+Nandy;Machine+Learning+%26+Generative+AI+Dev;Rust+Infra+%7C+FastAPI+Pipelines+%7C+MLOps;Building+things+that+think...+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%92%BB" alt="Typing intro" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Working dev gif" />
+
+<h1 style="font-weight:bold; margin-top: 30px;">Swastik Nandy</h1>
+
+<h3>
+  🧠 <strong>Machine Learning & GenAI Developer</strong> <br>
+  🔁 <strong>Real-time Data Pipelines | Rust + Python</strong> <br>
+  🏗️ <strong>Infrastructure, Orchestration & MLOps</strong>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Real-time+ML+%7C+Rust+Infra+Builder;LoRA%2C+QLoRA%2C+Transformers%2C+Langchain;Coding+until+the+GPU+melts...+%F0%9F%92%A5" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/swastik-nandy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/swastiknandy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="300" alt="dev gif" />
-</p>
+</div>
+
 
 ---
 
