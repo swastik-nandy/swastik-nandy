@@ -88,7 +88,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swasti-knandy&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik-nandy&show_icons=true&theme=tokyonight" height="170px" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-nandy&layout=compact&theme=tokyonight" height="170px" />
 </p>
