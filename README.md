@@ -5,7 +5,15 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+ML+Infra+Dev;Rust+%26+Python+Builder;Coding+with+purpose...+%F0%9F%94%96"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=Building+ML+Infra+that+Thinks...;LoRA+%7C+QLoRA+%7C+LangChain+%7C+Rust+%2B+FastAPI;GPU+melting+pipelines+in+progress+%F0%9F%94%A5" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="140" alt="robot wave" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="140" alt="coding girl" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="140" alt="working developer" />
 </p>
 
 ---
