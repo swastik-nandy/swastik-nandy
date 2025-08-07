@@ -5,12 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Terminal Dev Animation" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" alt="Dev at work" />
 </p>
 
-<h1 align="center"><strong>HELLO, I AM SWASTIK</strong></h1>
-<h3 align="center"><i>Machine Learning & Generative AI Dev | Data Pipelines & Backend APIs | Infrastructure & MLOps <table align="center">
-  
+<h1 align="center"><strong><i>HELLO, I AM SWASTIK</i></strong></h1>
+
+<h3 align="center"><i>
+  🧠 Machine Learning & Generative AI Developer <br>
+  🔁 Data Pipelines & Backend APIs <br>
+  🏗️ Infrastructure & MLOps Engineer
+</i></h3>
+
+<!-- 🧠 HERO SECTION END -->
+
 ---
 
 ### 🧠 Who Am I?
