@@ -1,15 +1,15 @@
-<!-- ===========================================================================
- █████╗ ██████╗  ██████╗ ██╗  ██╗██╗███╗   ██╗ ██████╗ ███╗   ███╗██╗███╗   ██╗
-██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝██║████╗  ██║██╔═══██╗████╗ ████║██║████╗  ██║
-███████║██████╔╝██║   ██║ ╚███╔╝ ██║██╔██╗ ██║██║   ██║██╔████╔██║██║██╔██╗ ██║
-██╔══██║██╔═══╝ ██║   ██║ ██╔██╗ ██║██║╚██╗██║██║   ██║██║╚██╔╝██║██║██║╚██╗██║
-██║  ██║██║     ╚██████╔╝██╔╝ ██╗██║██║ ╚████║╚██████╔╝██║ ╚═╝ ██║██║██║ ╚████║
-╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝
-================================================================================-->
+<!--  ╔══════════════════════════════════════════════════════════════════════════════╗
+     ║ ███████╗██╗    ██╗ █████╗ ██████╗ ██████╗ ██╗   ██╗███████╗███████╗██████╗  ║
+     ║ ██╔════╝██║    ██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██╔══██╗ ║
+     ║ ███████╗██║ █╗ ██║███████║██████╔╝██████╔╝ ╚████╔╝ █████╗  █████╗  ██████╔╝ ║
+     ║ ╚════██║██║███╗██║██╔══██║██╔═══╝ ██╔═══╝   ╚██╔╝  ██╔══╝  ██╔══╝  ██╔══██╗ ║
+     ║ ███████║╚███╔███╔╝██║  ██║██║     ██║        ██║   ███████╗███████╗██║  ██║ ║
+     ║ ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     ╚═╝        ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝ ║
+     ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- DYNAMIC NEON RAINBOW NAME -->
+<!-- NEON RAINBOW NAME -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=46&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Swastik+Nandy;Full-Stack+Real-Time+ML+Architect;LoRA+%7C+QLoRA+%7C+RAG+%7C+LangChain;Rust+%2B+Python+%2B+Infra+Flow+Dev...🔥" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I%27m+Swastik+Nandy;Real-Time+ML+Infra+🔥;LoRA+%7C+QLoRA+%7C+RAG+%7C+LangChain;Rust+%2B+Python+%2B+Cloud;Build+Things+That+Think" alt="Typing animation" />
 </h1>
 
 <!-- NEON SUBTITLE -->
@@ -19,16 +19,17 @@
   <span style="color:#FFD700;">🏗 Infrastructure & MLOps</span>
 </h3>
 
-<!-- GOD-TIER HERO GIF WALL -->
+<!-- GOD-TIER HERO GIF WALL (ALL AI/ML/CODING) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #00BFFF;" />
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #FFD700;" />
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #FF007F;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h5Z2Z4cDZ3aXl4Z2l2bW5lZ3Rib3l0d3d5c3BncW5sZ25scnludGh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXyWGLPNw6m9xe/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #00FF88;" title="Neural Network Training" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4cDZ3aXl4Z2l2bW5lZ3Rib3l0d3d5c3BncW5sZ25scnludGh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXlRJBdOIrN7affldt/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #00BFFF;" title="Real-Time Data Pipeline" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4cDZ3aXl4Z2l2bW5lZ3Rib3l0d3d5c3BncW5sZ25scnludGh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fYlenwO1S9t3G/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #FFD700;" title="Kubernetes Pods Scaling" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4cDZ3aXl4Z2l2bW5lZ3Rib3l0d3d5c3BncW5sZ25scnludGh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" style="border-radius:12px; box-shadow:0 0 20px #FF007F;" title="Rust Code Compilation" />
 </p>
 
 <!-- EXPLODING 3-D SEPARATOR -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aDcz6Y0fzWYH0bK/giphy.gif" width="100%" height="60" style="filter:hue-rotate(90deg);" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4cDZ3aXl4Z2l2bW5lZ3Rib3l0d3d5c3BncW5sZ25scnludGh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="60" style="filter:hue-rotate(90deg);" />
 </p>
 
 ---
@@ -107,7 +108,7 @@
     <td width="50%">
       <h4 align="center" style="color:#00FF88;">🦾 LLMOps-Forge</h4>
       <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q0Y2V4Z2Y0dXF4d2I0a2VwemZ4d2Z5c3BncW5sZ25sZ3J5bnh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXyWGLPNw6m9xe/giphy.gif" width="100%" style="border-radius:12px;" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h5Z2Z4cDZ3aXl4Z2l2bW5lZ3Rib3l0d3d5c3BncW5sZ25scnludGh0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXyWGLPNw6m9xe/giphy.gif" width="100%" style="border-radius:12px;" />
       </p>
       <ul>
         <li>End-to-end MLOps pipeline for fine-tuning & serving LLMs</li>
