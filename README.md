@@ -56,9 +56,9 @@
 ### 📈 My GitHub Wizardry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastiknandy&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik-nandy&show_icons=true&theme=radical" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastiknandy&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-nandy&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
