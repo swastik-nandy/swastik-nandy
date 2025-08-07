@@ -21,7 +21,7 @@
 - 🤖 I build **modular**, **real-time** ML systems with *brains and backbone*.
 - 🔧 Backend in **Rust**, **FastAPI**, **SpringBoot** — ultra-low latency with Redis + PostgreSQL.
 - 🧪 GenAI focus: **LoRA**, **QLoRA**, **Transformers**, **RAG**, **LangChain**, **spaCy**, **OpenCV**.
-- 🧱 Infra engineer: From **data ingestion** to **ML orchestration**, I build **end-to-end**.
+- 🧱 Infra Management : From **data ingestion** to **ML orchestration**, I build **end-to-end**.
 - 🛰️ Obsessed with speed, precision, and clean architecture.
 
 <p align="center">
