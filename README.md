@@ -18,11 +18,10 @@
 
 ### 🧠 My Domains
 
-- 🤖 I build **modular**, **real-time** ML systems with *brains and backbone*.
-- 🔧 Backend in **Rust**, **FastAPI**, **SpringBoot** — ultra-low latency with Redis + PostgreSQL.
-- 🧪 GenAI focus: **LoRA**, **QLoRA**, **Transformers**, **RAG**, **LangChain**, **spaCy**, **OpenCV**.
-- 🧱 Infra Management : From **data ingestion** to **ML orchestration**, I build **end-to-end**.
-- 🛰️ Obsessed with speed, precision, and clean architecture.
+- I build **modular**, **real-time** ML systems with *brains and backbone*.
+- Backend in **Rust**, **FastAPI**, **SpringBoot** — ultra-low latency with Redis + PostgreSQL.
+- GenAI focus: **LoRA**, **QLoRA**, **Transformers**, **RAG**, **LangChain**, **spaCy**, **OpenCV**.
+- Obsessed with speed, precision, and clean architecture.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="typing dev" />
