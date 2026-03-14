@@ -8,7 +8,7 @@
 <h1 align="center"><strong>HELLO, I AM SWASTIK</i></strong></h1>
 
 <h3 align="center"><i>
-   Machine Learning & Generative AI Developer | Data Pipelines & Backend APIs | Infrastructure & MLOps 
+   Backend & Generative AI Developer (Java + Python) | Data Pipelines & Backend APIs
 </i></h3>
 
 <!-- 🧠 HERO SECTION END -->
@@ -18,10 +18,10 @@
 
 ### 🧠 My Domains
 
-- I build **modular**, **real-time** ML systems with *brains and backbone*.
+- I build **modular**, **real-time** systems with *brains and backbone*.
 - Backend in **Rust**, **FastAPI**, **SpringBoot** — ultra-low latency with Redis + PostgreSQL.
-- GenAI focus: **LoRA**, **QLoRA**, **Transformers**, **RAG**, **LangChain**, **spaCy**, **OpenCV**.
-- Obsessed with speed, precision, and clean architecture.
+- GenAI focus: **FAISS**, **Chroma DB**, **Pinecone**, **RAG**, **LangChain**.
+- Focussed on desgining & implementing and clean architecture.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="typing dev" />
