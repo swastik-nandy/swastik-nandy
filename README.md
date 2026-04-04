@@ -14,7 +14,7 @@
 
 | 🏷️ Area        | ⚡ Tools |
 |---------------|--------|
-| 🧩 **Backend** | FastAPI, Spring Boot, Tokio|
+| 🧩 **Backend** | FastAPI, Spring Boot, Actix|
 | 🗄️ **Data**    | PostgreSQL, Redis |
 | 🧠 **GenAI**   | Qdrant, Pinecone |
 | ☁️ **Infra**   | Docker |
