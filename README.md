@@ -1,4 +1,4 @@
-## 👋 I am Swastik
+## 👋 Hi, I am Swastik
 
 ---
 
