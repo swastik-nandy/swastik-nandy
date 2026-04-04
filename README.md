@@ -24,5 +24,5 @@
 ## 🌐 Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/swastik-nandy)  
-- 📧 [Email](mailto:swastiknandy2003@gmail.com)  
+- 📧 [Email](mailto:swastik.nandy@outlook.com)  
 - 💻 [GitHub](https://github.com/swastik-nandy)
