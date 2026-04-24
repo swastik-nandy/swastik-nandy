@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Swastik Nandy
 
-I design & build backend systems, AI-powered applications (LLM Engineering / NLP / Applied Machine Learning / RAG)
+I design & build backend systems, AI-powered applications (LLM Engineering, RAG, Agentic AI systems)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik%20Nandy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/swastik-nandy)
 [![Email](https://img.shields.io/badge/Email-swastik.nandy%40outlook.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:swastik.nandy@outlook.com)
