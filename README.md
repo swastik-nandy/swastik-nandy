@@ -28,7 +28,7 @@ Currently, I am exploring how modern AI tools like **Claude Code**, **Codex**, a
 
 * Backend systems for AI and data-heavy applications
 * RAG chatbots for technical and document-heavy knowledge bases
-* Document parsing, chunking, enrichment, and retrieval flows
+* Document Ingestion (Parse + encrich + chunk + embed) and retrieval mechanics
 * API design and backend architecture
 * Vector search and semantic search systems
 * Data ingestion pipelines and structured knowledge extraction
