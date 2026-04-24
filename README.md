@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Swastik Nandy
 
-### Backend Developer · AI Systems Builder · RAG & Document Intelligence Enthusiast
+### Backend Developer · AI Systems Builder · RAG & Document Intelligence
 
-I build backend systems, AI-powered applications, document intelligence pipelines, and retrieval-based tools.
+I design & build backend systems, AI-powered applications, document intelligence pipelines, and retrieval-based tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik%20Nandy-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/swastik-nandy)
 [![Email](https://img.shields.io/badge/Email-swastik.nandy%40outlook.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:swastik.nandy@outlook.com)
