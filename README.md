@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 👋 I'm Swastik Nandy
+# 👋 Hey, I'm Swastik
 
-Software Engineering Intern building a large-scale RAG pipeline @ Embitel Technologies India Pvt. Ltd. — a Volkswagen Group company.
+I spend most of my time making AI agents actually *do things* instead of just talking about them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik%20Nandy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-nandy)
 [![Email](https://img.shields.io/badge/Email-swastik.nandy%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastik.nandy@outlook.com)
@@ -16,33 +16,34 @@ Software Engineering Intern building a large-scale RAG pipeline @ Embitel Techno
 
 ## 🧠 About Me
 
-Software Engineering Intern at **Embitel Technologies India Private Limited**, a Volkswagen Group company, working on agentic AI systems and production-scale retrieval-augmented generation (RAG) pipelines.
+I'm a Software Engineering Intern at **Embitel Technologies India Private Limited**, a Volkswagen Group company, where I build agentic AI systems and retrieval pipelines that run in actual production, not just in a notebook.
 
-I design and build **million-vector RAG pipelines on Qdrant**, **agentic retrieval architectures**, **adaptive graph-based backends**, and **dynamic multi-agent orchestration systems** — moving past naive single-shot retrieval into retrieval systems that reason, route, and self-correct.
+Here's the honest pitch: I don't think of "RAG" and "agents" as two separate things anymore. My whole world is the blend — **agentic loops that reason and re-plan**, **tool calling and MCP-based orchestration** that let agents actually reach out and touch real systems, **retrieval pipelines** that feed those agents grounded context instead of hallucinated vibes, and **model lifecycle management** so the whole thing doesn't rot the moment a model gets swapped or a prompt drifts.
 
-My work sits at the intersection of backend engineering and applied AI systems: FastAPI services, high-throughput ingestion pipelines, and retrieval architectures built for accuracy at scale, not demos.
+If you've ever built a "RAG chatbot" that's really just embed-and-cosine-similarity with extra steps — I've been there, outgrown that, and now build the version with actual reasoning, actual orchestration, and actual observability behind it.
 
 ---
 
 ## 🚀 What I Work On
 
-* Agentic retrieval systems — query planning, tool-use orchestration, multi-hop reasoning, self-correcting retrieval loops
-* Million-vector RAG pipelines on Qdrant — HNSW indexing, hybrid (dense + sparse) search, reranking
-* Adaptive graph-based backend architectures for context-aware retrieval
-* Dynamic orchestration layers for multi-agent workflows (planner–executor patterns, tool routing)
-* FastAPI backend services for AI-driven, data-heavy applications
-* Data engineering pipelines for structured and unstructured enterprise data at scale
-* Embedding lifecycle management — chunking strategy, embedding drift, semantic caching
+* **Agentic loops** — plan → act → observe → re-plan, with self-correction when retrieval or a tool call comes back wrong
+* **Tool calling & MCP** — wiring agents into MCP servers and external tools so they can query, fetch, act, and not just chat
+* **Multi-agent orchestration** — planner/executor/critic patterns, routing between agents instead of one giant prompt doing everything
+* **RAG pipelines at scale** — chunking, embedding, hybrid dense+sparse search, reranking, on Qdrant
+* **Adaptive graph-based retrieval** — going beyond flat vector similarity when context actually needs structure and relationships
+* **Model lifecycle management** — versioning, evals, drift detection, rollback, and knowing when a model swap silently breaks your retrieval quality
+* **FastAPI backend services** that hold all of the above together and actually ship
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Right Now I'm
 
 ```txt
-Building        Agentic RAG pipelines at million-vector scale on Qdrant
-Architecting    Adaptive graph-based retrieval backends
-Engineering     Dynamic multi-agent orchestration layers
-Optimizing      Hybrid search, reranking, and retrieval precision at scale
+Building        Agentic RAG systems with tool calling + MCP orchestration
+Wiring          Multi-agent loops that self-correct instead of one-shot guessing
+Scaling         Retrieval pipelines on Qdrant — hybrid search, reranking, graph-aware context
+Managing        Model lifecycle — versioning, evals, drift, rollback
+Always          Learning something that makes last month's architecture look naive
 ```
 
 ---
@@ -72,15 +73,16 @@ Optimizing      Hybrid search, reranking, and retrieval precision at scale
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### AI / Agentic Systems / Vector Search
+### Agentic AI / RAG / Orchestration
 
 <p>
-  <img src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Orchestration-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Million--Vector%20Pipelines-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20Loops-Plan--Act--Observe-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Calling-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent%20Orchestration-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-Enterprise%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Lifecycle-Evals%20%26%20Versioning-blueviolet?style=for-the-badge" />
 </p>
 
 ### Tools & Infrastructure
@@ -93,55 +95,50 @@ Optimizing      Hybrid search, reranking, and retrieval precision at scale
 
 ---
 
-## 🧩 Core Areas
+## 🧩 Where I Spend My Time
 
 ```txt
-Agentic AI Engineering    Multi-agent orchestration · Tool-use routing · Self-correcting retrieval loops
-RAG at Scale              Million-vector pipelines · Hybrid search · Reranking · HNSW indexing
-Graph-Based Retrieval     Adaptive graph backends · Context-aware traversal · Query planning
-Backend Engineering       FastAPI · APIs · Services · Databases · Caching
-Data Engineering          Ingestion pipelines · Structured & unstructured data at enterprise scale
+Agentic AI            Reasoning loops · Multi-agent orchestration · Tool calling · MCP integration
+RAG Engineering       Chunking · Embedding · Hybrid search · Reranking · Graph-aware retrieval
+Model Lifecycle       Versioning · Evals · Drift detection · Rollback strategy
+Backend Engineering   FastAPI · APIs · Databases · Caching · Deployment
+Data Engineering      Ingestion pipelines for messy, real-world enterprise data
 ```
 
 ---
 
-## 🏗️ Current Work
+## 🏗️ What I'm Building — Embitel Technologies (Volkswagen Group)
 
-### Agentic RAG Platform — Embitel Technologies (Volkswagen Group)
+### Agentic RAG Platform
 
-Production-scale RAG and agentic AI backend handling million-vector retrieval workloads.
+This is the main thing I pour my energy into. It's not "a chatbot with a vector DB" — it's an actual agentic system:
 
-**Focus areas:**
-
-* Million-vector indexing and hybrid dense/sparse search on Qdrant
-* Adaptive graph-based backend for context-aware, multi-hop retrieval
-* Dynamic multi-agent orchestration — planner, retriever, and executor agents with tool-use routing
-* Reranking and retrieval-precision tuning for enterprise-grade accuracy
-* Metadata-enriched, structure-aware ingestion pipelines
-* FastAPI backend services and API design for AI-integrated systems
-* Domain-agnostic ingestion logic built to generalize across data types
-
----
+* **Agentic loops** that plan a retrieval strategy, execute it, look at what came back, and re-plan if the context is thin or wrong
+* **Tool calling + MCP** so agents can reach beyond the vector store — query live systems, call internal tools, fetch structured data on demand
+* **Multi-agent orchestration** splitting work across planner, retriever, and executor roles instead of cramming everything into one prompt
+* **Adaptive graph-based backend** for retrieval that understands relationships, not just cosine similarity
+* **Hybrid dense + sparse search on Qdrant**, with reranking layered on top for actual precision
+* **Model lifecycle management** wrapped around all of it — because none of the above matters if you can't tell when a model swap quietly tanked your retrieval quality
 
 ### AI Backend Systems
 
-Backend architecture and infrastructure for agentic, retrieval-based AI applications:
+The infrastructure that makes the above possible without falling over:
 
-* Self-correcting retrieval pipelines with feedback-driven query rewriting
-* Semantic caching layers to cut redundant embedding/inference cost
-* Data engineering pipelines for enterprise-scale ingestion
-* Backend services supporting production agentic AI applications
+* FastAPI services gluing agents, tools, and retrieval together
+* Self-correcting pipelines with feedback-driven query rewriting when retrieval misses
+* Semantic caching so I'm not re-embedding or re-calling tools for the same thing twice
+* Data engineering pipelines built to swallow messy real-world enterprise data without breaking
 
 ---
 
-## 📌 Engineering Principles
+## 📌 How I Think About Engineering
 
-* Build systems that are understandable, testable, and extensible — not just functional
-* Ground agentic systems in deterministic retrieval logic, not open-loop LLM guessing
-* Treat parsing, chunking, and metadata as first-class architecture decisions, not afterthoughts
-* Design domain-agnostic pipelines instead of hard-coding business assumptions
-* Favor adaptive, graph-aware retrieval over flat vector similarity when context depth matters
-* Prefer clean, production-grade architecture over unnecessary abstraction
+* An agent that can't call a tool or hit an MCP server is just a chatbot wearing a trench coat
+* RAG without reranking is basically retrieval roulette
+* If you can't tell when your model version changed and quality dropped, you don't have a system — you have a hope
+* Graph-aware retrieval beats flat vector similarity the second context actually has structure
+* Build things understandable and testable first — clever comes later, if at all
+* Don't hard-code business logic into pipelines that are supposed to generalize
 
 ---
 
@@ -168,15 +165,16 @@ Backend architecture and infrastructure for agentic, retrieval-based AI applicat
 
 ## 💬 Ask Me About
 
-* Agentic retrieval architecture and multi-agent orchestration
-* Million-vector RAG pipelines on Qdrant (indexing, hybrid search, reranking)
-* Adaptive graph-based retrieval backends
-* FastAPI backend development
-* Data engineering pipelines at enterprise scale
+* Agentic loops — how to make an agent actually reason and re-plan instead of one-shotting
+* Tool calling and MCP — wiring agents into real external systems
+* Multi-agent orchestration patterns
+* RAG pipelines that actually hold up at scale (hybrid search, reranking, graph retrieval)
+* Model lifecycle management — versioning, evals, drift, rollback
+* FastAPI backend architecture for AI-heavy systems
 
 ---
 
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/swastik-nandy">
@@ -194,6 +192,6 @@ Backend architecture and infrastructure for agentic, retrieval-based AI applicat
 
 <div align="center">
 
-### ⚙️ Engineering agentic retrieval systems at production scale
+### ⚙️ Building agents that plan, call tools, retrieve, and actually get it right
 
 </div>
