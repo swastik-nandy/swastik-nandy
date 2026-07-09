@@ -4,7 +4,7 @@
 
 # 👋 I'm Swastik Nandy
 
-Software Engineering Intern building agentic AI systems and large-scale RAG pipelines @ Embitel Technologies India Pvt. Ltd. — a Volkswagen Group company.
+Software Engineering Intern building a large-scale RAG pipeline @ Embitel Technologies India Pvt. Ltd. — a Volkswagen Group company.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swastik%20Nandy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-nandy)
 [![Email](https://img.shields.io/badge/Email-swastik.nandy%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastik.nandy@outlook.com)
