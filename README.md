@@ -16,7 +16,7 @@ I spend most of my time making AI agents actually *do things* instead of just ta
 
 ## 🧠 About Me
 
-I'm a Software Engineering Intern at **Embitel Technologies India Private Limited**, a Volkswagen Group company, where I build agentic AI systems and retrieval pipelines that run in actual production, not just in a notebook.
+I'm a Software Engineer Intern at **Embitel Technologies India Private Limited**, a Volkswagen Group company, where I build agentic AI systems and retrieval pipelines that run in actual production, not just in a notebook.
 
 Here's the honest pitch: I don't think of "RAG" and "agents" as two separate things anymore. My whole world is the blend — **agentic loops that reason and re-plan**, **tool calling and MCP-based orchestration** that let agents actually reach out and touch real systems, **retrieval pipelines** that feed those agents grounded context instead of hallucinated vibes, and **model lifecycle management** so the whole thing doesn't rot the moment a model gets swapped or a prompt drifts.
 
